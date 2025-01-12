@@ -4,4 +4,5 @@ My designs have the CoreELEC (Just enough Linux to run Kodi) logo on the back be
 Do keep in mind that if you want to print these directly onto PVC cards, that they need to have an inkjet printable coating on top (unless you have an expensive professional printer that doesn't need the extra coating).
 
 If you want to join our little community of likeminded people who want to use NFC cards to boot al sorts of stuff, do join our Zaparoo Discord Server or Zaparoo Subreddit! https://zaparoo.org/ 
+
 ![Showcase.](/.readme-assets/showcase.jpg)
